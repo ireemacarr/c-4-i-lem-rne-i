@@ -1,1 +1,1 @@
-# c-4-i-lem-rne-i
+c# ile 4 işlem örneği
